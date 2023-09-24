@@ -28,6 +28,9 @@ System.out.println("New change1 in feature branch");
 System.out.println("New change2 in feature branch");
 System.out.println("Cooker");
 System.out.println("Fawwaz11");
+System.out.println("Test1");
+System.out.println("Test2");
+System.out.println("Test3");
 	}
 
 }
