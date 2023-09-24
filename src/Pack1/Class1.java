@@ -9,6 +9,7 @@ public class Class1 {
 	System.out.println("Master1");
 
 	System.out.println("Feature1");
+	System.out.println("Merge1");
 
 	}
 
