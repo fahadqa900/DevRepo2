@@ -10,6 +10,7 @@ public class Class1 {
 
 	System.out.println("Feature1");
 	System.out.println("Merge1");
+
 	System.out.println("Merge2");
 	System.out.println("Merge3");
 	System.out.println("Merge4");
@@ -18,6 +19,9 @@ public class Class1 {
 	System.out.println("Merge7");
 	System.out.println("Merge8");
 	System.out.println("Mereg9");
+
+	System.out.println("New Master");
+
 
 	}
 
