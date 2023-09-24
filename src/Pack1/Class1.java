@@ -15,8 +15,10 @@ public class Class1 {
 	System.out.println("Merge4");
 	System.out.println("Merge5");
 	System.out.println("Merge6");
+
 	System.out.println("Merge7");
 	System.out.println("Merge8");
+
 
 	}
 
