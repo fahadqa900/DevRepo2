@@ -26,8 +26,12 @@ public class Class1 {
 System.out.println("New Change in feature branch");
 System.out.println("New change1 in feature branch");
 System.out.println("New change2 in feature branch");
+System.out.println("www");
 System.out.println("Cooker");
+
 System.out.println("Fawwaz11");
+
+System.out.println("Fawwaz2");
 	}
 
 }
