@@ -23,7 +23,7 @@ public class Class1 {
 	System.out.println("Merge8");
 	System.out.println("Mereg9");
 	System.out.println("Merge10");
-
+System.out.println("New Change in feature branch");
 	}
 
 }
